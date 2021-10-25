@@ -1,0 +1,7 @@
+{
+  "name": "cs-scrollbar-color",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

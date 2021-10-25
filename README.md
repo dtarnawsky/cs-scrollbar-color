@@ -1,7 +1,7 @@
 # Custom Scrollbar Coloring
 This sample project implements a directive to override the color of the scrollbar on the web.
 
-Take a look at `scrollbar.directive.ts`. The coloring for the background/foreground of the scrollbar can be modified here.
+Take a look at `scrollbar.directive.ts` (copy and paste into your own project). The coloring for the background/foreground of the scrollbar can be modified here.
 
 To apply to a page you can use `<ion-content appScrollbarTheme>`.
 
